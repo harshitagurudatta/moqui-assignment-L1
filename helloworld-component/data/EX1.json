@@ -1,0 +1,10 @@
+[
+  { "_dataType": "demo" },
+  {
+    "_entity": "Example",
+    "exampleName": "A",
+    "exampleDate": "2002/06/02",
+    "exampleQuantity": "1",
+    "examplePrice": "1"
+  }
+]
